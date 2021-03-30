@@ -1,0 +1,38 @@
+{
+  "name": "sa_boerewors",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.5.0",
+    "axios": "^0.21.1",
+    "bcryptjs": "^2.4.3",
+    "browser-image-compression": "^1.0.14",
+    "dotenv": "^8.2.0",
+    "emailjs-com": "^2.6.4",
+    "firebase": "^8.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongodb": "^3.6.5",
+    "mongoose": "^5.12.2",
+    "next": "10.0.9",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.2.0",
+    "react-redux": "^7.2.3",
+    "react-spring": "^9.0.0",
+    "redux": "^4.0.5",
+    "redux-persist": "^6.0.0",
+    "uid": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/react-datepicker": "^3.1.8",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8",
+    "tailwindcss": "^2.0.4"
+  }
+}
